@@ -33,10 +33,11 @@ Sprint | Previsão | Status| Histórico|
 
 # Links para acessar as Sprints
 
-* Para acessar as Sprint 0 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint0).
-* Para acessar as Sprint 1 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint1).
-* Para acessar as Sprint 2 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint2).
-
+* Para acessar as Sprint 1 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint0).
+* Para acessar as Sprint 2 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint1).
+* Para acessar as Sprint 3 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint2).
+* Para acessar as Sprint 4 clique [aqui]
+  
 # Objetivo do Projeto
 
 Criar base de dados relacional e Dashboard que permita: (i)identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e (ii) desenhar a geografia do fluxo da carga para importação e exportação.
@@ -72,7 +73,8 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
 * Jira Software;
 * GitHub;
 * Power Bi;
-* Excel.
+* Python;
+* SQL
  
 # Backlog do produto
   
@@ -91,23 +93,20 @@ Requisitos funcionais
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Jira / 5W2H / PowerPoint
+- Jira / 5W2H / Slack
   
 
-## Sprint 0. Concepção
+## Sprint 1. Concepção
 - [x] Estruturação do GitHub;
-- [x] Aprender GitHub;
 - [x] Pergunta P.O;
-- [x] Testar a estimativa de tempo;
-- [x] Aprender GitHub
+- [x] Backlog do Produto;
 - [x] 5W2H;
 - [x] Estruturação das tasks no Jira Software;
-- [x] Power Point no GitHub;
-- [x] Documentação Sprint 0;
-
-## Sprint 1. Desenvolvimento do Projeto
 - [x] Documentação Sprint 1;
-- [x] Obter e trabalhar dados de importação e exportação de São Paulo;
+
+## Sprint 2. Desenvolvimento do Projeto
+- [x] Documentação Sprint 1;
+- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados;
 - [x] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
 - [x] Criação do storytelling básico para segunda tela;
 - [x] Relação de Dados Primeira Tela;
