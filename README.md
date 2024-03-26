@@ -1,7 +1,9 @@
 # Trium-Logistics-3
 # Aprendizado por Projeto Integrado (API)
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimento e habilidades ao
+trabalhar em projetos práticas que abrangem várias áreas de aprendizado. Esses projetos geralmente são interdisciplinares
+e podem envolver a aplicação de conhecimentos de várias disciplinas para resolver problemas do mundo real.
 
 # Índice
 
@@ -40,9 +42,15 @@ Sprint | Previsão | Status| Histórico|
   
 # Objetivo do Projeto
 
-Criar base de dados relacional e Dashboard que permita: (i)identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e (ii) desenhar a geografia do fluxo da carga para importação e exportação.
+O objetivo deste projeto é otimizar as rotas de três plantas pertencentes à mesma empresa por meio da aplicação de técnicas de pesquisa operacional. Pretende-se desenvolver um modelo que maximize a eficiência logística, minimizando custos e tempo de transporte entre as plantas, garantindo assim uma distribuição mais ágil e econômica dos produtos.
 
-Este projeto tem como objetivo apresentar uma solução interativa de informações com os modais mais utilizados de exportação e importação no estado de São Paulo. 
+Além disso, o projeto visa implementar um modelo matemático que possa ser utilizado para realizar análises de cenários e simulações, permitindo à empresa avaliar o impacto de diferentes estratégias. Isso possibilitará uma abordagem mais proativa na gestão financeira da empresa, permitindo a identificação de oportunidades de maximização de lucros e mitigação de riscos.
+
+# Resultado Esperado
+
+O resultado esperado do modelo de otimização utilizando pesquisa operacional é a definição de rotas de transporte mais eficientes entre as três plantas da empresa. Espera-se que o modelo forneça um plano detalhado que minimize os custos totais de transporte, levando em consideração fatores como distância, capacidade dos veículos, tempo de viagem e restrições operacionais.
+
+Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, garantindo entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser capaz de adaptar-se a diferentes cenários e condições operacionais, proporcionando flexibilidade para lidar com imprevistos e variações na demanda.
 
  
 # Funcionalidades e registros
