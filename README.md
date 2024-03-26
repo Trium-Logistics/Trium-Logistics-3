@@ -35,10 +35,10 @@ Sprint | Previsão | Status| Histórico|
 
 # Links para acessar as Sprints
 
-* Para acessar as Sprint 1 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint0).
-* Para acessar as Sprint 2 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint1).
-* Para acessar as Sprint 3 clique [aqui](https://github.com/Trium-Logistics/Trium-Logistics-2/tree/Sprint2).
-* Para acessar as Sprint 4 clique [aqui]
+* Para acessar as Sprint 1 clique [aqui]
+* Para acessar as Sprint 2 clique [aqui]
+* Para acessar as Sprint 3 clique [aqui]
+* Para acessar as Sprint 4 clique [aqui] 
   
 # Objetivo do Projeto
 
