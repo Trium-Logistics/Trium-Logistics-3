@@ -71,11 +71,12 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
  ### Tecnológias Específicas/Apoio
 
 * 5W2H;
-* Jira Software;
 * GitHub;
+* Jira Software;
 * Power Bi;
 * Python;
-* SQL
+* SQL;
+* Slack;
  
 # Backlog do produto
   
@@ -88,8 +89,11 @@ Regras de Negócio
 -
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
+- Uma estrutura de banco de dados relacional
+- Uma tela de Power BI que mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
+- Uma tele Power BI com a evolução dos custos por Km de cada rota, filtrando por fábricas
+- Uma tele Power BI com a evolução dos custos por unidade transportada de cada rota, filtrando por fábricas 
+- Relatórios
   
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
@@ -106,15 +110,15 @@ Requisitos não funcionais
 - [x] Documentação Sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [x] Documentação Sprint 1;
-- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados;
-- [x] Criação do Mapa no Power BI e a representação dos fluxos importação e exportação de São Paulo;
+- [x] Documentação Sprint 2;
+- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente;
+- [x] Criação da produtividademensal no Power BI e a relação entre outputs e inputs;
 - [x] Criação do storytelling básico para segunda tela;
 - [x] Relação de Dados Primeira Tela;
 - [x] Relação de Dados Segunda Tela;
       
-## Sprint 2 . Implementação
-- [x] Documentação Sprint 2;
+## Sprint 3 . Implementação
+- [x] Documentação Sprint 3;
 - [x] Relação entre município e o estado de São Paulo;
 - [x] Criação do storytelling básico para terceira tela;
 - [x] Restruturação da base de dados;
@@ -122,8 +126,8 @@ Requisitos não funcionais
 - [x] Relação das cidades Taubaté, Jundiaí e Sorocaba;
 - [x] Aplicar probabilidade para desenvolver a fórmula em DAX;
       
-## Sprint 3. Operacionalização
-- [ ] Documentação Sprint 3;
+## Sprint 4. Operacionalização
+- [ ] Documentação Sprint 4;
 - [ ] Detalhar Sobre uma carga de São José dos Campos;
 - [ ] Criação do storytelling básico para quarta tela;
 
