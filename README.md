@@ -53,13 +53,6 @@ O resultado esperado do modelo de otimização utilizando pesquisa operacional �
 Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, garantindo entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser capaz de adaptar-se a diferentes cenários e condições operacionais, proporcionando flexibilidade para lidar com imprevistos e variações na demanda.
 
  
-# Funcionalidades e registros
-
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
 
 ## Tecnologias Utilizadas
   ### Produto 
