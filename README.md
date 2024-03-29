@@ -82,18 +82,18 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/backlog_produto.JPG?raw=true)
+![product backlog](https://github.com/danielmiguel8/curriculum/assets/130483215/7058b733-6b51-49e5-b466-3243e7adc883)
 </div>
 
 Regras de Negócio
 -
 
 Requisitos funcionais 
-- Uma estrutura de banco de dados relacional
-- Uma tela de Power BI que mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
-- Uma tele Power BI com a evolução dos custos por Km de cada rota, filtrando por fábricas
-- Uma tele Power BI com a evolução dos custos por unidade transportada de cada rota, filtrando por fábricas 
-- Relatórios
+- Uma estrutura de banco de dados relacional;
+- Uma tela de Power BI que mostre a produtividade mensal dos veículos (relação entre outputs e inputs);
+- Uma tele Power BI com a evolução dos custos por Km de cada rota, filtrando por fábricas;
+- Uma tele Power BI com a evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
+- Relatórios;
   
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
