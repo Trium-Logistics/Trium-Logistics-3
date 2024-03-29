@@ -103,6 +103,7 @@ Requisitos não funcionais
 
 ## Sprint 1. Concepção
 - [x] Estruturação do GitHub;
+- [x] Estruturação da Base de dados em SQL;
 - [x] Pergunta P.O;
 - [x] Backlog do Produto;
 - [x] 5W2H;
@@ -110,26 +111,25 @@ Requisitos não funcionais
 - [x] Documentação Sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [x] Documentação Sprint 2;
-- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente;
-- [x] Criação da produtividademensal no Power BI e a relação entre outputs e inputs;
-- [x] Criação do storytelling básico para segunda tela;
-- [x] Relação de Dados Primeira Tela;
-- [x] Relação de Dados Segunda Tela;
+- [ ] Documentação Sprint 2;
+- [ ] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente atráves do sistema MySQL;
+- [ ] Criar funções matemáticas para medir a produtividade das 3 Fábricas;
+- [ ] criar um ambiente de trabalho dentro do python com os dados do SQL;
+
       
 ## Sprint 3 . Implementação
-- [x] Documentação Sprint 3;
-- [x] Relação entre município e o estado de São Paulo;
-- [x] Criação do storytelling básico para terceira tela;
-- [x] Restruturação da base de dados;
-- [x] Estruturação do 5w2h;
-- [x] Relação das cidades Taubaté, Jundiaí e Sorocaba;
-- [x] Aplicar probabilidade para desenvolver a fórmula em DAX;
+- [ ] Documentação Sprint 3;
+- [ ] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
+- [ ] Aplicação do método de transportes para otimização da distribuição;
+- [ ] Criação do storytelling;
+
       
 ## Sprint 4. Operacionalização
 - [ ] Documentação Sprint 4;
-- [ ] Detalhar Sobre uma carga de São José dos Campos;
-- [ ] Criação do storytelling básico para quarta tela;
+- [ ] Fazer uma análise dos resultados gerados pelo projeto;
+- [ ] Correção de erros gerados para verificar possiveis melhorias;
+- [ ] Interligar SQLcom Python e Power BI;
+- [ ] Criação do storytelling básico;
 
 # Competências desenvolvidas
 
