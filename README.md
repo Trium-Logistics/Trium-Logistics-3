@@ -82,7 +82,7 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/danielmiguel8/curriculum/assets/130483215/7058b733-6b51-49e5-b466-3243e7adc883)
+![product backlog](https://github.com/danielmiguel8/curriculum/assets/130483215/807ab03b-9c42-47bf-bff1-aa45e3303a25)
 </div>
 
 Regras de Negócio
