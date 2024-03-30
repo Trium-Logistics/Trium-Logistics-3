@@ -140,11 +140,12 @@ Requisitos não funcionais
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -156,10 +157,10 @@ Requisitos não funcionais
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
