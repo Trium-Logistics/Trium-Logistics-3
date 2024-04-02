@@ -1,9 +1,8 @@
 # Trium-Logistics-3
-# Aprendizado por Projeto Integrado (API)
-
-A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimento e habilidades ao
-trabalhar em projetos práticas que abrangem várias áreas de aprendizado. Esses projetos geralmente são interdisciplinares
-e podem envolver a aplicação de conhecimentos de várias disciplinas para resolver problemas do mundo real.
+# Projeto (API)
+Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Minimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). 
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
 
 # Índice
 
@@ -19,15 +18,11 @@ e podem envolver a aplicação de conhecimentos de várias disciplinas para reso
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API)
-Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Minimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 13/03/2024 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 17/04/2024 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 13/03/2024 | feito | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 17/04/2024 | fazendo| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  08/05/2024| a fazer |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
 |03| 29/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
