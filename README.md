@@ -187,20 +187,3 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
-
-# Autores
-
-
-![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_fotos.jpg?raw=true)
-
-
-
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Ezenildo Campos         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezenildo-campos-81043b266/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ezenildo-Campos)              |
-| Scrum Master  | Júlia Vitória |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-vit%C3%B3ria-2502b9202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juliavitoriasilva)     |  ![Júlia Victória](https://github.com/danielmiguel8/curriculum/assets/130483215/d1f01758-0c13-4400-b583-17fb40b31311)  |
-| Team Member  | Gabriel Martins |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-gazaneo-a531b8253/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-Martins-Gazaneo)     |
-| Team Member   | Daniel Miguel              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-miguel-silva-7492a2248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmiguel8)        |  ![Daniel Miguel](https://github.com/danielmiguel8/curriculum/assets/130483215/4b6484fa-837b-4716-9f3a-8c9cef914b9c)  |
-|  Team Member  | Marcelo Uchôas                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelouchoas)        | ![Marcelo Uchôas](https://github.com/danielmiguel8/curriculum/assets/130483215/26950faa-7f5e-46d1-9271-4eddf479aa8a) |
-|  Team Member  | Márcia Soares                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marciasoaresa)   |
-|  Team Member  | Emily Job                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emily-job-316851292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilymjob)   |
