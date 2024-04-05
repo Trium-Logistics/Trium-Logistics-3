@@ -1,4 +1,4 @@
-# Trium-Logistics-3
+# Trium-Logistics
 # Aprendizado por Projeto Integrado (API)
 
 A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimento e habilidades ao
