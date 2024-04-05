@@ -1,17 +1,16 @@
-# Trium-Logistics 3
-# Aprendizado por Projeto Integrado (API)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
-A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimento e habilidades ao
-trabalhar em projetos práticas que abrangem várias áreas de aprendizado. Esses projetos geralmente são interdisciplinares
-e podem envolver a aplicação de conhecimentos de várias disciplinas para resolver problemas do mundo real.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Trium+Logistcs!+:%29)](https://git.io/typing.svg)
+
+
+<br>
 
 # Índice
 
 * [Projeto](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros](#funcionalidades-e-registros)
+* [Resultado Esperado](#resultado-esperado)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do produto](#backlog-do-produto)
 * [Burndown](#burndown)
@@ -19,27 +18,37 @@ e podem envolver a aplicação de conhecimentos de várias disciplinas para reso
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
+<br>
+
+
 # Projeto (API)
 Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Minimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 13/03/2024 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 17/04/2024 | a fazer| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  08/05/2024| a fazer |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
-|03| 29/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+<br>
 
-# Links para acessar as Sprints
 
-* Para acessar as Sprint 1 clique [aqui]
-* Para acessar as Sprint 2 clique [aqui]
-* Para acessar as Sprint 3 clique [aqui]
-* Para acessar as Sprint 4 clique [aqui] 
-  
+# Equipe
+
+![Equipe](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/main/img/membros_fotos.jpg?raw=true)
+
+
+
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Ezenildo Campos         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezenildo-campos-81043b266/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ezenildo-Campos)              |
+| Scrum Master  | Júlia Vitória |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-vit%C3%B3ria-2502b9202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juliavitoriasilva)     |  ![Júlia Victória](https://github.com/danielmiguel8/curriculum/assets/130483215/d1f01758-0c13-4400-b583-17fb40b31311)  |
+| Team Member  | Gabriel Martins |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-gazaneo-a531b8253/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-Martins-Gazaneo)     |
+| Team Member   | Daniel Miguel              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-miguel-silva-7492a2248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmiguel8)        |  ![Daniel Miguel](https://github.com/danielmiguel8/curriculum/assets/130483215/4b6484fa-837b-4716-9f3a-8c9cef914b9c)  |
+|  Team Member  | Marcelo Uchôas                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelouchoas)        | ![Marcelo Uchôas](https://github.com/danielmiguel8/curriculum/assets/130483215/26950faa-7f5e-46d1-9271-4eddf479aa8a) |
+|  Team Member  | Márcia Soares                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marciasoaresa)   |
+|  Team Member  | Emily Job                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emily-job-316851292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilymjob)   |
+
+<br>
+
+
+
 # Objetivo do Projeto
 
 O objetivo deste projeto é otimizar as rotas de três plantas pertencentes à mesma empresa por meio da aplicação de técnicas de pesquisa operacional. Pretende-se desenvolver um modelo que maximize a eficiência logística, minimizando custos e tempo de transporte entre as plantas, garantindo assim uma distribuição mais ágil e econômica dos produtos.
@@ -52,7 +61,20 @@ O resultado esperado do modelo de otimização utilizando pesquisa operacional �
 
 Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, garantindo entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser capaz de adaptar-se a diferentes cenários e condições operacionais, proporcionando flexibilidade para lidar com imprevistos e variações na demanda.
 
- 
+<br>
+
+# Cronograma das Sprints
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 13/03/2024 | Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
+|01 | 17/04/2024 | Em progresso | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/julia_silva130_fatec_sp_gov_br/EdohNT2avcFNuAlE-7O-hGQBPPvhz3Q971-JUQEOb6tkiQ?e=IbpjJP) | 
+|02|  08/05/2024| a fazer |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
+|03| 29/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+
+<br>
+
 
 ## Tecnologias Utilizadas
   ### Produto 
