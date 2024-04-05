@@ -104,7 +104,7 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/danielmiguel8/curriculum/assets/130483215/807ab03b-9c42-47bf-bff1-aa45e3303a25)
+![product backlog](https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/ae2ab2fa-7433-49ee-9ef4-d881f17f66bf)
 </div>
 
 Regras de Negócio
@@ -168,7 +168,7 @@ Requisitos não funcionais
 | Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Slack | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
 </details>
 
