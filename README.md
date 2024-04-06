@@ -102,7 +102,7 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/ae2ab2fa-7433-49ee-9ef4-d881f17f66bf)
+![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/7195901d-d3f5-4fdf-a0af-16070159d183)
 </div>
 
 Regras de Negócio
@@ -184,3 +184,4 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+
