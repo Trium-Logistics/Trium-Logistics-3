@@ -102,7 +102,8 @@ https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/R
   
 <div align="center">
     
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/7195901d-d3f5-4fdf-a0af-16070159d183)
+![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
+
 </div>
 
 Regras de Negócio
@@ -185,3 +186,5 @@ Requisitos não funcionais
 
 </details>
 
+
+![Backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
