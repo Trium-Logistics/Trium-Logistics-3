@@ -187,4 +187,3 @@ Requisitos não funcionais
 </details>
 
 
-![Backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
