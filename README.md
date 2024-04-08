@@ -13,8 +13,6 @@
 * [Resultado Esperado](#resultado-esperado)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do produto](#backlog-do-produto)
-* [Burndown](#burndown)
-* [Burnup](#burnup)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -80,12 +78,12 @@ Sprint | Previsão | Status| Histórico|
 
 * Link para acessar o produto:
 
-https://app.powerbi.com/groups/me/reports/fe9772d8-ddc1-4158-a5d2-2840efa253ab/ReportSection2d76c8229517f2ace5ec?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+https://app.powerbi.com/links/zKD80UcTFw?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare 
 
 
 ### Base de dados
 
-![base_de_dados](https://raw.githubusercontent.com/Trium-Logistics/Trium-Logistics-2/Sprint1/img/base_dados.jpeg)
+![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cacca0d8-32af-47c9-9bd7-8b0fc1640315)
 
 
  ### Tecnológias Específicas/Apoio
@@ -185,5 +183,6 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+
 
 
