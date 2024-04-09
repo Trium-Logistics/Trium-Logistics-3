@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Trium+Logistcs!+:%29)](https://git.io/typing.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Trium+Logistics!+:%29)](https://git.io/typing.svg)
 
 
 <br>
@@ -12,8 +12,9 @@
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Resultado Esperado](#resultado-esperado)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do produto](#backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Backlog do Produto](#backlog-do-produto)
+* [Tecnologias Específicas/Apoio](#tecnologias-específicas-apoio)
+* [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
 <br>
@@ -71,9 +72,25 @@ Sprint | Previsão | Status| Histórico|
 
 <br>
 
+# Backlog do produto
+  
+<div align="center">
+    
+![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
 
-## Tecnologias Utilizadas
-  ### Produto 
+</div>
+
+
+# Tecnologias Específicas/Apoio
+
+* 5W2H;
+* GitHub;
+* Jira Software;
+* Power Bi;
+* Python;
+* SQL;
+* Slack;
+ # Produto 
   
 
 * Link para acessar o produto:
@@ -87,24 +104,6 @@ https://app.powerbi.com/links/zKD80UcTFw?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
 
-
- ### Tecnológias Específicas/Apoio
-
-* 5W2H;
-* GitHub;
-* Jira Software;
-* Power Bi;
-* Python;
-* SQL;
-* Slack;
- 
-# Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
-
-</div>
 
 Regras de Negócio
 -
