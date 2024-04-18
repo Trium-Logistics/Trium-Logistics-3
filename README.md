@@ -104,7 +104,7 @@ https://app.powerbi.com/links/zKD80UcTFw?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
 
- Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/14996960/Report.anomlias.docx)
+ Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
 
 
 
@@ -188,5 +188,3 @@ Requisitos não funcionais
 
 </details>
 
-
-[Sprint_1.pdf](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf)
