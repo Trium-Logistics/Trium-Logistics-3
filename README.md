@@ -64,7 +64,7 @@ Espera-se que o modelo matemático identifique as rotas mais rápidas e econômi
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 13/03/2024 | Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
-|01 | 17/04/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/14996908/Relatorio.Sprint1.docx) | 
+|01 | 17/04/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf) | 
 |02|  08/05/2024| a fazer |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
 |03| 29/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
@@ -189,3 +189,4 @@ Requisitos não funcionais
 </details>
 
 
+[Sprint_1.pdf](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf)
