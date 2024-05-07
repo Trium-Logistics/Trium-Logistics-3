@@ -135,10 +135,10 @@ Requisitos não funcionais
 - [x] Relatório técnico da Sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Relatório técnico da Sprint 2;
-- [ ] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente atráves do sistema MySQL;
-- [ ] Criar funções matemáticas para medir a produtividade das 3 Fábricas;
-- [ ] criar um ambiente de trabalho dentro do python com os dados do SQL;
+- [x] Relatório técnico da Sprint 2;
+- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente atráves do sistema MySQL;
+- [x] Criar funções matemáticas para medir a produtividade das 3 Fábricas;
+- [x] criar um ambiente de trabalho dentro do python com os dados do SQL;
 
       
 ## Sprint 3 . Implementação
