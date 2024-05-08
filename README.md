@@ -93,9 +93,7 @@ Sprint | Previsão | Status| Histórico|
  # Produto 
   
 
-* Link para acessar o produto:
-
-https://app.powerbi.com/links/zKD80UcTFw?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare 
+* Link para acessar o produto: [Click Aqui](https://app.powerbi.com/links/zKD80UcTFw?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) 
 
 
 ### Base de dados
