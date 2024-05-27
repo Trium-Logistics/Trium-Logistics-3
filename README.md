@@ -98,11 +98,19 @@ Sprint | Previsão | Status| Histórico|
 
 ### Base de dados
 
-![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cacca0d8-32af-47c9-9bd7-8b0fc1640315)
+
+![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
+
+
+![Base_de_Dados 1](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_1_.gif)
+
+
+* Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
+
 
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
 
-Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
+* Resultado da Otimização em Python [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/Proposta_de_otmiza%C3%A7%C3%A3o_2024.ipynb)
 
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_colab.gif?raw=true)
 
