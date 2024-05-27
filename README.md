@@ -66,7 +66,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 13/03/2024 | Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
 |01 | 17/04/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf) | 
 |02|  08/05/2024| Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15248291/Relatorio.Sprint2.2.pdf) | 
-|03| 29/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 29/05/2024 | Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/relatorio_sprint_3.pdf) | 
 |04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
