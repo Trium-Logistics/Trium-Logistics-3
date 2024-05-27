@@ -31,12 +31,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  <a href="https://github.com/ComexSmart/ComexSmart/commit/d1dde23d589f9f41f6e0fdfe27bd11fc41be94eb"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/ccab25b6-3854-4b92-8d3b-fe4c6694201e" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Ezenildo Campos</p>|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezenildo-campos-81043b266/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ezenildo-Campos)              |
+|  Product Owner  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6a1fc136-48da-4938-91c2-93253083dc8f" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Marcelo Uchôas</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelouchoas)          |
 | Scrum Master  |  <a href="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/035404d9-f0a8-4f1a-9cb2-88c2b022ada6" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Júlia Victória</p>|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-vit%C3%B3ria-2502b9202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juliavitoriasilva)     |
 | Team Member   | <a href="https://user-images.githubusercontent.com/142995260/273607131-51127998-a41a-418b-878e-14ac3e079240.jpg"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/1dcd2d43-7e61-4e08-a1df-16562e5be836" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Daniel Miguel</p>             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-miguel-silva-7492a2248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmiguel8)        |
 |  Team Member  |   <a href="https://user-images.githubusercontent.com/142995260/273608311-56f0ee9e-3a47-4783-8535-5a30bacfe8dd.jpg"><img src="https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/fe0870d7-741e-42e2-910d-a7b3d8b99cdejpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Emily Job</p>           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emily-job-316851292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilymjob)        |
 |  Team Member  |  <a href="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6ee2da46-9568-4bcd-abac-a6381bc06866"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6ee2da46-9568-4bcd-abac-a6381bc06866" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Gabriel Gazaneo</p>              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-gazaneo-a531b8253/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabriel-Martins-Gazaneo)   |
-|  Team Member  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6a1fc136-48da-4938-91c2-93253083dc8f" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Marcelo Uchôas</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelouchoas)          |
+| Team Member |  <a href="https://github.com/ComexSmart/ComexSmart/commit/d1dde23d589f9f41f6e0fdfe27bd11fc41be94eb"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/ccab25b6-3854-4b92-8d3b-fe4c6694201e" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Ezenildo Campos</p>|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezenildo-campos-81043b266/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ezenildo-Campos)              |
 |  Team Member  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/ee99202b-1774-4af1-b3db-5d4ecfc49b8djpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Márcia Soares</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marciasoaresa)          |
 
 
@@ -66,10 +66,9 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 13/03/2024 | Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
 |01 | 17/04/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf) | 
 |02|  08/05/2024| Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15248291/Relatorio.Sprint2.2.pdf) | 
-|03| 29/05/2024 | Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15462153/Relatorio.Sprint3.pdf) | 
+|03| 29/05/2024 | Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/relatorio_sprint_3.pdf) | 
 |04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-[Relatório Sprint3.pdf]()
 
 <br>
 
@@ -100,18 +99,20 @@ Sprint | Previsão | Status| Histórico|
 ### Base de dados
 
 
+![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
+
+
+![Base_de_Dados 1](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_1_.gif)
+
+
+* Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
+
+
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
 
- Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
+* Resultado da Otimização em Python [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/Proposta_de_otmiza%C3%A7%C3%A3o_2024.ipynb)
 
-
-![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/e676829a-e950-4c44-b721-0008e6ab46a0)
-
-![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/3a86c236-1792-4bfd-a583-13240e7d1531)
-
-
-![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/16a8609a-26f9-4b44-8593-6353c09911e7)
-
+![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_colab.gif?raw=true)
 
 Regras de Negócio
 -
@@ -147,10 +148,10 @@ Requisitos não funcionais
 
       
 ## Sprint 3 . Implementação
-- [ ] Relatório técnico da Sprint 3;
-- [ ] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
-- [ ] Aplicação do método de transportes para otimização da distribuição;
-- [ ] Criação do storytelling;
+- [x] Relatório técnico da Sprint 3;
+- [x] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
+- [x] Aplicação do método de transportes para otimização da distribuição;
+- [x] Criação do storytelling;
 
       
 ## Sprint 4. Operacionalização
