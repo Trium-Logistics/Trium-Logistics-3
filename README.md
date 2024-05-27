@@ -105,7 +105,13 @@ Sprint | Previsão | Status| Histórico|
  Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
 
 
-![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/42cbee60-71c1-447b-a1f1-a99f353c9c9e)
+![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/e676829a-e950-4c44-b721-0008e6ab46a0)
+
+![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/3a86c236-1792-4bfd-a583-13240e7d1531)
+
+
+![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/16a8609a-26f9-4b44-8593-6353c09911e7)
+
 
 Regras de Negócio
 -
