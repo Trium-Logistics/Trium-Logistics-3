@@ -148,10 +148,10 @@ Requisitos não funcionais
 
       
 ## Sprint 3 . Implementação
-- [ ] Relatório técnico da Sprint 3;
-- [ ] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
-- [ ] Aplicação do método de transportes para otimização da distribuição;
-- [ ] Criação do storytelling;
+- [x] Relatório técnico da Sprint 3;
+- [x] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
+- [x] Aplicação do método de transportes para otimização da distribuição;
+- [x] Criação do storytelling;
 
       
 ## Sprint 4. Operacionalização
