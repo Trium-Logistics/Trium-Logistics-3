@@ -98,11 +98,15 @@ Sprint | Previsão | Status| Histórico|
 
 ### Base de dados
 
-![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cacca0d8-32af-47c9-9bd7-8b0fc1640315)
 
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
 
  Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
+
+
+![Base_de_Dados](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/42cbee60-71c1-447b-a1f1-a99f353c9c9e)
+
+![Base_de_Dados]()
 
 
 
