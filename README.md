@@ -113,7 +113,8 @@ Sprint | Previsão | Status| Histórico|
 ![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
 
 
-![Base_de_Dados 1](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/d17242ff-154e-46bf-b75c-50d360292e05)
+![Base_de_Dados 1](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/471ca096-f628-4983-b780-a1bbc120c28e)
+
 
 
 Regras de Negócio
@@ -157,11 +158,11 @@ Requisitos não funcionais
 
       
 ## Sprint 4. Operacionalização
-- [ ] Relatório técnico da Sprint 4;
-- [ ] Fazer uma análise dos resultados gerados pelo projeto;
-- [ ] Correção de erros gerados para verificar possiveis melhorias;
-- [ ] Interligar as ferramentas SQLcom Python e Power BI;
-- [ ] Criação do storytelling básico;
+- [x] Relatório técnico da Sprint 4;
+- [x] Fazer uma análise dos resultados gerados pelo projeto;
+- [x] Correção de erros gerados para verificar possiveis melhorias;
+- [x] Interligar as ferramentas SQLcom Python e Power BI;
+- [x] Criação do storytelling básico;
 
 # Competências desenvolvidas
 
