@@ -113,9 +113,7 @@ Sprint | Previsão | Status| Histórico|
 ![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
 
 
-![Base_de_Dados 1](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/471ca096-f628-4983-b780-a1bbc120c28e)
-
-![Base_de_Dados 1](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/b551fffe-67c7-4b8c-848e-c14e652c3a79)
+https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/fa5c3f7b-2eda-48bc-abe5-9e99743b43da
 
 
 Regras de Negócio
@@ -197,6 +195,11 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/23ad830e-f160-48da-81bf-99998c9771b1)
+
+
+
 
 
 
