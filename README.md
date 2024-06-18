@@ -112,8 +112,7 @@ Sprint | Previsão | Status| Histórico|
 ![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
 
 
-![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2c7dce8a-e48f-4208-a82f-5575e0fa23d3)
-
+![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/a11c8a0f-d81d-4244-9527-b07481d477e8)
 
 
 Regras de Negócio
