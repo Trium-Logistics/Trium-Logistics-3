@@ -194,9 +194,7 @@ Requisitos não funcionais
 | Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-</details>
 
-![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/23ad830e-f160-48da-81bf-99998c9771b1)
 
 
 
