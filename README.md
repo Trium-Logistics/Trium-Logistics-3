@@ -109,11 +109,10 @@ Sprint | Previsão | Status| Histórico|
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_colab.gif?raw=true)
 
 
-
 ![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
 
 
-https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/fa5c3f7b-2eda-48bc-abe5-9e99743b43da
+![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/5f20a5ac-d2eb-4071-a45f-31365c6c5286_.gif)
 
 
 Regras de Negócio
